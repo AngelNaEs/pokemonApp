@@ -1,0 +1,21 @@
+.cardNumber {
+    font-size: 4rem;
+    color: #6EAAFA;
+    margin: 0;
+  }
+
+.cardImg {
+    max-width: 10rem;
+    max-height: 10rem;
+  }
+
+.tipePokemon {
+  background-color: #8DC4E6;
+  border-radius: 1rem;
+  padding: 2px;
+}
+
+.nameStats {
+    height: 2.3rem;
+    text-align: center;
+   }
